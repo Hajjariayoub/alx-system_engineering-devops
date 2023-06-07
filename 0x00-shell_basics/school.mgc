@@ -1,2 +1,2 @@
-0       string  SCHOOL  School data file
+#!/bin/bash
 file -m /path/to/magic/files/school.mgc *
