@@ -1,2 +1,2 @@
-string HOLBERTON holberton data
-!:mime Holberton
+0       string  SCHOOL  School data file
+file -m /path/to/magic/files/school.mgc *
